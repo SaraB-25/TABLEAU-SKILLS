@@ -22,6 +22,10 @@ The goal is to demonstrate key features   of tableau for data, cleaning and visu
 ### Data Cleaning
 - Removing Null values by filtering the data
 - Removing duplicates
+
+### Creating Dashboards
+- Below are the samples of dashboards created using EMSI_JobChange_UK data set
+- 
   <img width="940" height="384" alt="image" src="https://github.com/user-attachments/assets/8a40b0c2-b2d1-4bbd-80bc-51a466467b2f" />
 
   <img width="940" height="582" alt="image" src="https://github.com/user-attachments/assets/fbdacce6-1a9b-4575-b97d-75b554fc79d8" />
@@ -39,5 +43,3 @@ The goal is to demonstrate key features   of tableau for data, cleaning and visu
 
 
 
-### Creating Dashboards
-- Below are the sample of dashboards created using EMSI_JobChange_UK data set
