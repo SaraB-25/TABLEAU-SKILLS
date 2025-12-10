@@ -3,7 +3,7 @@
 This project analyses EMSI_JobChange_UK using tableau.
 The goal is to demonstrate key features   of tableau for data, cleaning and visualisation.
 ## 🎯 Objectives
--Get familiarised with the key features 
+- Get familiarised with the key features 
 - Clean and prepare data  
 - Be able to import data and create a relationship
 - Create a dashboard  
