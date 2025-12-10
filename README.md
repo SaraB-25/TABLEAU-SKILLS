@@ -1,5 +1,3 @@
-# TABLEAU-SKILLS
-Analysing data using Tableau
 # Tableau Skills
 ## 📌 Project Overview
 This project analyses EMSI_JobChange_UK using tableau
