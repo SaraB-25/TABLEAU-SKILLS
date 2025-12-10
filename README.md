@@ -1,6 +1,6 @@
 # Tableau Skills
 ## 📌 Project Overview
-This project analyses EMSI_JobChange_UK using tableau
+This project analyses EMSI_JobChange_UK using tableau.
 The goal is to demonstrate key features   of tableau for data, cleaning and visualisation.
 ## 🎯 Objectives
 -Get familiarised with the key features 
